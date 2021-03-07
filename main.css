@@ -1,0 +1,105 @@
+* {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: black;
+  font-family: "Langar", cursive;
+  color: red;
+}
+h1 {
+  font-family: "Digital-7", arial;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.naslov {
+  text-align: center;
+  margin-top: 5%;
+}
+.container {
+  content: normal;
+}
+.igrackaPloca {
+  margin-left: 32%;
+  margin-right: 32%;
+  text-align: center;
+  font-size: 30px;
+  color: red;
+  float: center;
+}
+.scoreboard {
+  text-align: center;
+  color: white;
+  float: right;
+  margin-right: 20%;
+  margin-top: 0%;
+  border-style: dashed;
+  width: 100px;
+  border-color: cadetblue;
+}
+.prvi-red {
+  height: 45px;
+}
+.drugi-red {
+  height: 45px;
+}
+.treci-red {
+  height: 45px;
+}
+.col1 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-bottom: none;
+}
+.col2 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-left: none;
+  border-bottom: none;
+}
+.col3 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-left: none;
+  border-bottom: none;
+}
+.col4 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-bottom: none;
+}
+.col5 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-left: none;
+  border-bottom: none;
+}
+.col6 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-left: none;
+  border-bottom: none;
+}
+.col7 {
+  float: left;
+  width: 31%;
+  border: dashed;
+}
+.col8 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-left: none;
+}
+.col9 {
+  float: left;
+  width: 31%;
+  border: dashed;
+  border-left: none;
+}
